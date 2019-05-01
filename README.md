@@ -12,9 +12,9 @@ Run `grunt` for building and `grunt serve` for preview.
 Running `grunt test` will run the unit tests with karma.
 
 ## Using technologies:
-1. YO
-2. Grunt
+1. HTML
+2. CSS
 3. JS
 4. Angular 1
-5. HTML
-6. CSS
+5. Yeoman
+6. Grunt
